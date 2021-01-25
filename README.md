@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-**jthomasw88/jthomasw88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **jthomasw88/jthomasw88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ```
 {
   "firstName": "Jordan",
   "lastName": "Williams",
-  "age": 32
+  "age": 
 }
 ```
 

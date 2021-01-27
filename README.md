@@ -7,11 +7,11 @@
 {
   "firstName": "Jordan",
   "lastName": "Williams",
-  "age": 
+  "age": 32
 }
 ```
 
-- 🔭 I’m currently working on genrally improving **my coding skills** and **my understanding of coding** 🤓
+- 🔭 I’m currently working on generally improving **my coding skills** and **my understanding of coding** 🤓
 - 🌱 I’m currently learning the basics of JavaScript,CSS and Git.👨‍🏫
 - 👯 I’m looking to collaborate on my Codenation projects with my fellow cohortians 📜
 - 🤔 I’m looking for help with anything that helps me in my pursiut of becoming a great software engineer 🖥️ 

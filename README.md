@@ -12,8 +12,7 @@
 ```
 
 - 🔭 I’m currently working on generally improving **my coding skills** and **my understanding of coding** 🤓
-- 🌱 I can confidently use JavaScript,CSS,React,Git,Git-kracken.👨‍🏫
-- 👯 I’m looking to collaborate on my Codenation projects with my fellow cohortians 📜
+- 🌱 I can confidently use JavaScript,CSS,React,,node,Git,Git-kracken.👨‍🏫
 - 🤔 I’m looking for help with anything that helps me in my pursiut of becoming a great software engineer 🖥️ 
 - 💬 Ask me about Muay Thai, liverpool football club or my favourite music, i dont know about much else.⚽
 - 📫 How to reach me: jthomasw88@gmail.com 📧

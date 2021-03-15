@@ -11,11 +11,11 @@
 }
 ```
 
-- 🔭 I’m currently working on generally improving **my coding skills** and **my understanding of coding** 🤓
-- 🌱 I can confidently use JavaScript,CSS,React,,node,Git,Git-kracken.👨‍🏫
+- 🔭 I’m currently working on my final goup projects in Bootcamp @ codenation
+- 🌱 I can confidently use JavaScript,CSS,HTML,React,MongoDB,Python,django,node,Git-hub,Git-kracken,express,handlebars.🖥️
 - 🤔 I’m looking for help with anything that helps me in my pursiut of becoming a great software engineer 🖥️ 
-- 💬 Ask me about Muay Thai, liverpool football club or my favourite music, i dont know about much else.⚽
+- ❤️ I love Tech, Muay Thai, liverpool football club or my favourite band,Sticky Fingers!⚽
 - 📫 How to reach me: jthomasw88@gmail.com 📧
-- 😄 Pronouns: la/lad 👨‍🎤
+- 😄 Pronouns: La/Lad 
 - ⚡ Fun fact: I once ate 74 twister lolly ices in 4 days 🍭
 
